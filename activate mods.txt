@@ -1,0 +1,9 @@
+kawaii_lua 1
+kawaii_cheats 1
+
+(join or start a game)
+lua_openscript_cl ahack.lua
+bind 0 ahack_menu
+
+lua_openscript_cl smeg_hack.lua
+bind p smeghack_menu
